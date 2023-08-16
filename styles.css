@@ -1,0 +1,20 @@
+body {
+    background-color: lightblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+    color: bisque;
+}
+
+ul {
+    color: bisque;
+    font-weight: bold;
+    text-align: center;
+}
+
+a {
+    color: bisque;
+}
