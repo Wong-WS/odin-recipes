@@ -1,4 +1,4 @@
-body {
+/** body {
     background-color: lightblue;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -17,4 +17,41 @@ ul {
 
 a {
     color: bisque;
+}
+
+**/
+.body {
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.title {
+  background: orange;
+  padding: 24px;
+  text-align: center;
+  width: 300px;
+  margin: auto;
+}
+
+.recipes {
+    background-color: chocolate;
+    width: 328px;
+    margin: 20px auto;
+    text-align: center;
+    font-size: 28px;
+    padding: 10px;
+}
+
+.first-recipe {
+    background-color: lightsalmon;
+    margin-top: 10px;
+}
+
+.second-recipe {
+    background-color: lightsalmon;
+}
+
+.third-recipe {
+    background-color: lightsalmon;
+    margin-bottom: 10px;
 }
